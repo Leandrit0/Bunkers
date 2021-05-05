@@ -1,0 +1,7 @@
+name: Bunkers
+version: 1.0
+author: Alonso
+main: us.zanis.bunkers.Bunkers
+commands:
+    balance:
+    team:

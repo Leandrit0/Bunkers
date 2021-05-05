@@ -1,0 +1,7 @@
+#Configuracion :v
+#Variables para el show, (%teamname%, %teamdtr%, %members%, %home%)
+TEAM:
+    SHOW:
+        "Team: %teamname%"
+        ""
+        ""
